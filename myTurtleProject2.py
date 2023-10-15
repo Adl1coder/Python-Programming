@@ -71,5 +71,5 @@ message = "\t\t\t\t\t\t\t İzlemene sevindim!"
 star.write(message, font=("Arial", 20, "normal"))
 print(message)
 
-# Turtle penceresini kapatır ve programı tamamlar.
+
 turtle.done()

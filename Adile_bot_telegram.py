@@ -2,8 +2,8 @@ from typing import Final
 import telegram
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
-
-token = '6541923750:AAERUUXfwxGVRF8RJnJFwYSvPDn7otiFCm0'
+# I must change token for security, u can use ur token
+token = '654192375333330:AAERUUXfwxGVRF8RJnJFwYSvPDn7otiFCm0'
 bot_username: Final = '@Adilegungorbot'
 
 
