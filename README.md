@@ -4,7 +4,7 @@ complete with a moon and stars.
 The stars are created by mixing different colors to give a sense of depth and variety to the night sky.
 
 # Note:
-I had to change the token in the telegram bot so the telegram bot won't work
+I had to change the token in the telegram bot so the telegram bot won't work. Other parts are working 
 
 # Screenshoots for Turkish flag and star:
 
