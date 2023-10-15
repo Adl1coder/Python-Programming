@@ -1,7 +1,6 @@
 # Python Programming 
-This Python project uses the Turtle graphics library to create a beautiful starry night sky with a red background,
-complete with a moon and stars.
-The stars are created by mixing different colors to give a sense of depth and variety to the night sky.
+This Python project contains a Turkish flag with a red background. It also includes a flower and star with different colors.
+There is also a telegram bot to understand how it works. All done with the turtle library
 
 # Note:
 I had to change the token in the telegram bot so the telegram bot won't work. Other parts are working 
